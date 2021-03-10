@@ -16,7 +16,10 @@
 </p>
 </p>
 
-
+<h2 align="center">Wakatime Stats</h2>
+<p align="center">
+  <a href ="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical" alt="EuanMorgan" /> </a>
+</p>
 
 <h2 align="center"> Socials </h2>
 <p align="center">
