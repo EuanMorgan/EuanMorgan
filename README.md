@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Music Makes You Run Faster](https://euanmorgan.github.io/music-makes-you-run-faster.html).
 - 🔭 I’m currently working on [GL365 Academy Trainer](https://www.youtube.com/watch?v=0e63k6p9wiE).
-- ✌ I'm current looking for graduate positions as a Software Developer.
+- ✌ I'm current looking for graduate positions as a Developer.
 - ⚡ Fun fact: The dog in my profile picture is called Milo... Yes you can stroke him 🐕
 
 <h2 align="center"> Github Stats</h2>
