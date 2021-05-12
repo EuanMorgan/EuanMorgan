@@ -1,6 +1,6 @@
 <h1 align="center"> Howdy! I'm Euan 👋 </h1>
 
-- 🔭 I’m currently working on [Music Makes You Run Faster](https://euanmorgan.github.io/music-makes-you-run-faster.html).
+- 🔭 I’m currently working on [Music Makes You Run Faster](https://musicmakesyourunfaster.firebaseapp.com/).
 - 🔭 I’m currently working on [GL365 Academy Trainer](https://www.youtube.com/watch?v=0e63k6p9wiE).
 - ✌ I'm due to start as a Junior Developer at CarbonCode Solutions when I finish my degree
 - ⚡ Fun fact: The dog in my profile picture is called Milo... Yes you can stroke him 🐕
