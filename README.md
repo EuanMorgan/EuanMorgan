@@ -1,9 +1,9 @@
 <h1 align="center"> Howdy! I'm Euan 👋 </h1>
 
-- 🔭 I’m currently working on [Music Makes You Run Faster](https://musicmakesyourunfaster.firebaseapp.com/).
-- 🔭 I’m currently working on [GL365 Academy Trainer](https://www.youtube.com/watch?v=0e63k6p9wiE).
-- ✌ I'm due to start as a Junior Developer at CarbonCode Solutions when I finish my degree
-- ⚡ Fun fact: The dog in my profile picture is called Milo... Yes you can stroke him 🐕
+- ✌ I'm a junior software developer at CarbonCode Solutions
+- 🔭 Recent personal project: [Music Makes You Run Faster](https://youtu.be/zx2wwiGat0s).
+- 🔭 Recent personal project: [GL365 Academy Trainer](https://www.youtube.com/watch?v=0e63k6p9wiE).
+- ⚡ The dog in my profile picture is called Milo, he is a good boy. 🐕
 
 <h2 align="center"> Github Stats</h2>
 
